@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackFit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote1">Once you learn to quit, it becomes a habit.</string>
+    <string name="quote2">A year from now you may wish you had started today.</string>
+</resources>
